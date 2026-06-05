@@ -1,0 +1,9 @@
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Host declaration to solidify your preferred domain
+Host: tnassociates.in
+
+# Explicitly tell bots where your sitemap lives
+Sitemap: https://tnassociates.in/sitemap.xml
